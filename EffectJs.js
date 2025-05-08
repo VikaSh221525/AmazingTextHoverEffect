@@ -11,5 +11,7 @@
 // document.addEventListener("DOMContentLoaded", () => {
 //     Shery.mouseFollower();
 // });
-// Shery.mouseFollower();
-console.log(Shery);
+
+Shery.mouseFollower();
+
+
